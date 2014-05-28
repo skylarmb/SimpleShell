@@ -1,8 +1,6 @@
-Authors: Ryan Gliever (rgliever@ucsc.ecu) and Skylar Brown (skmbrown@ucsc.edu)
-
 CMPE 150 Final Project: Client-Server Model in C
 
-To use this program, server.c and client.c must be ran on different machines that are connected 
+To use this program, server.c and client.c must be run on different machines that are connected 
 through a network. Both files can be compiled with gcc. The server side must be executed first, with
 the name of the executable file for server.c followed by a port number. Once the connection is open,
 the client side may be executed, with the name of the executable file for client.c followed by 
